@@ -1,2 +1,0 @@
-Vercel CLI 54.14.5 (Node.js 23.11.0)
-Error: An unexpected error occurred in login: FetchError: request to https://vercel.com/.well-known/openid-configuration failed, reason: Client network socket disconnected before secure TLS connection was established
